@@ -15,4 +15,4 @@ Place the "AssistInfection.dll" file in your sm_plugins folder.
 | :-------------: | :-----:|:-----:|
 | disablePlugin | false | Enable/Disable the plugin.  |
 | displayTimer | true | Displays countdown timer onscreen for how long 049 has left to start a revive. |
-| timerFormat | <size=50>{0} can be resurrected for <color=#44444>{1} more seconds. |What the timer message should look like. |
+| timerFormat | "<size=50>{0} can be resurrected for <color=#44444>{1}</color> more seconds.</size>" |What the timer message should look like. |
